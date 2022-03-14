@@ -1,0 +1,1001 @@
+ 1158  w j gatw - king -shand
+ 1159  w j gatw - king -hand
+ 1160  w c hand
+ 1161  w c water
+ 1162  w j gatw - king -splash
+ 1163  w  gatw - king -splash/k su
+ 1164  w k ジェラール/- 
+ 1165  w n k ジェラール
+ 1166  w n k シャンドリー
+ 1167  w n k シャンドリ
+ 1168  w  k シャンドリー
+ 1169  w  k シャンドリ
+ 1170  w n k シャンド
+ 1171  w k 無気味
+ 1172  w k 堕胎
+ 1173  w k そもそも
+ 1174  w k tsukudoku
+ 1175  w k tsukuduku
+ 1176  w n k 前川
+ 1177  w n k -/前川
+ 1178  w n -/k 前川
+ 1179  w n k 前川/-
+ 1180  w n k 前川正
+ 1181  w n k 正前川
+ 1182  w k 蝉
+ 1183  w k 脱皮
+ 1184  w k 弱肉強食
+ 1185  git pull ~/Downloads/wikistraw.dev
+ 1186  sudo git pull ~/Downloads/wikistraw.dev
+ 1187  git log
+ 1188  cd
+ 1189  umount /media/blue-flash 
+ 1190  myfort
+ 1191  d Appalachian
+ 1192  myfort
+ 1193  mount /media/blue-flash/
+ 1194  cd Downloads/
+ 1195  cd wikistraw.dev/
+ 1196  git status
+ 1197  git remote
+ 1198  git pull /media/blue-flash/wikistraw_clone2021-11-29/wikistraw.dev
+ 1199  git log
+ 1200  ls
+ 1201  mkdir playground
+ 1202  mv playground/ travia
+ 1203  mv -vi filter filter.sed filer.sed f.sed.old g.pdf  greek-agebra.man last_page* lp* ms.ms  proclus.quotes.pdf si-enwikiquote-20200301.txt testing-awk-exit-status.sh  test.man t.man  travia/
+ 1204  ls
+ 1205  mv -iv  beranger* d.log errlog travia/
+ 1206  ls
+ 1207  view etrete.sh 
+ 1208  ls
+ 1209  git show buf.sed
+ 1210  git show f.sed
+ 1211  git show f.sed Head~1
+ 1212  git show f.sed Head-1
+ 1213  git show f.sed --since=last_week
+ 1214  git show  --since=last_week f.sed
+ 1215  git show  --since=last_month f.sed
+ 1216  git show  --since=last month f.sed
+ 1217  git show  --since="last month" f.sed
+ 1218  git status 
+ 1219  cat buf.sed 
+ 1220  git rm buf.sed 
+ 1221  ls
+ 1222  git status 
+ 1223  ls
+ 1224  git status 
+ 1225  cat wikicleaner.sh 
+ 1226  git add indexer.sh 
+ 1227  git status 
+ 1228  head wiki*txt
+ 1229  head wik*txt
+ 1230  ls
+ 1231  mv -vi wikiqouteindex.txt wiktindex.txt travia/
+ 1232  ls
+ 1233  git status 
+ 1234  vi .gitignore
+ 1235  git status 
+ 1236  git add .gitignore 
+ 1237  git status 
+ 1238  vi .gitignore
+ 1239  git status 
+ 1240  vi .gitignore
+ 1241  git status 
+ 1242  ls -lh enwik*99
+ 1243  mv -iv enwik*99 travia/
+ 1244  git status 
+ 1245  git add .gitignore 
+ 1246  git status 
+ 1247  sh etrete.sh wagner
+ 1248  sh etrete.sh 2
+ 1249  sh etrete.sh kinyoubi
+ 1250  sh etrete.sh wakizashi
+ 1251  sh etrete.sh 1
+ 1252  git status 
+ 1253  vi .gitignore 
+ 1254  git status 
+ 1255  git add .gitignore 
+ 1256  git status 
+ 1257  git commit -m"dir-files-cleaning"
+ 1258  git status 
+ 1259  git log
+ 1260  ls
+ 1261  vi etrete.sh 
+ 1262  vi wikigrep.sh 
+ 1263  vi indexer.sh 
+ 1264  sh etrete.sh wakizashi
+ 1265  vi wikigrep.sh 
+ 1266  sh etrete.sh wakizashi
+ 1267  vi wikigrep.sh 
+ 1268  cd /usr/share/dictd
+ 1269  ls
+ 1270  head gcide.index |od -c
+ 1271  man od
+ 1272  view gcide.index 
+ 1273  cd
+ 1274  cd Downloads/
+ 1275  less prred.utf8.eikyou_no_kotoba.永遠のことば.txt 
+ 1276  cd
+ 1277  cds my_items/
+ 1278  cd my_items/0-daily-books/
+ 1279  atril unix.pdf 
+ 1280  bg
+ 1281  cd ~/D*ds/wi*v
+ 1282  vi wikigrep.sh 
+ 1283  cat indexer.sh 
+ 1284  sh indexer.sh enwikiquote-20200301-pages-articles-multistream-index.txt.bz2 
+ 1285  vi wikigrep.sh 
+ 1286  sh etrete.sh wakizashi
+ 1287  sh etrete.sh jackson
+ 1288  sh etrete.sh jack
+ 1289  sh wikigrep.sh gear
+ 1290  vi wikigrep.sh 
+ 1291  sh wikigrep.sh gear
+ 1292  cat last_result 
+ 1293  sh wikigrep.sh gear
+ 1294  vi indexer.sh 
+ 1295  vi wikigrep.sh 
+ 1296  sh wikigrep.sh gear
+ 1297  vi wikigrep.sh 
+ 1298  sh wikigrep.sh gear
+ 1299  vi wikigrep.sh 
+ 1300  sh wikigrep.sh gear
+ 1301  sh indexer.sh enwikiquote-20200301-pages-articles-multistream-index.txt.bz2 
+ 1302  vi indexer.sh 
+ 1303  sh indexer.sh enwikiquote-20200301-pages-articles-multistream-index.txt.bz2 
+ 1304  sh wikigrep.sh gear
+ 1305  vi wikigrep.sh 
+ 1306  sh wikigrep.sh gear
+ 1307  vi wikigrep.sh 
+ 1308  sh wikigrep.sh gear
+ 1309  vi wikigrep.sh 
+ 1310  sh wikigrep.sh gear
+ 1311  vi wikigrep.sh 
+ 1312  sh wikigrep.sh gear
+ 1313  vi wikigrep.sh 
+ 1314  sh wikigrep.sh gear
+ 1315  vi wikigrep.sh 
+ 1316  sh wikigrep.sh gear
+ 1317  vi wikigrep.sh 
+ 1318  sh wikigrep.sh gear
+ 1319  vi wikigrep.sh 
+ 1320  sh wikigrep.sh gear
+ 1321  vi wikigrep.sh 
+ 1322  sh wikigrep.sh gear
+ 1323  vi wikigrep.sh 
+ 1324  sh wikigrep.sh gear
+ 1325  vi wikigrep.sh 
+ 1326  sh wikigrep.sh gear
+ 1327  vi wikigrep.sh 
+ 1328  sh wikigrep.sh gear
+ 1329  vi wikigrep.sh 
+ 1330  sh wikigrep.sh gear
+ 1331  vi wikigrep.sh 
+ 1332  sh wikigrep.sh gear
+ 1333  vi wikigrep.sh 
+ 1334  sh wikigrep.sh gear
+ 1335  vi wikigrep.sh 
+ 1336  sh wikigrep.sh gear
+ 1337  vi wikigrep.sh 
+ 1338  sh wikigrep.sh gear
+ 1339  sh wikigrep.sh saga
+ 1340  sh etrete.sh gear
+ 1341  vi etrete.sh 
+ 1342  sh etrete.sh gear
+ 1343  sh etrete.sh 1
+ 1344  sh etrete.sh gear
+ 1345  vi etrete.sh 
+ 1346  sh etrete.sh gear
+ 1347  sh etrete.sh 1
+ 1348  cat last_page 
+ 1349  vi etrete.sh 
+ 1350  sh etrete.sh gear
+ 1351  sh etrete.sh 1
+ 1352  vi etrete.sh 
+ 1353  cat last_result 
+ 1354  cat last_result |cut -f1
+ 1355  cat last_result |cut -f2
+ 1356  cat last_result |cut -f3
+ 1357  vi etrete.sh 
+ 1358  sh etrete.sh 1
+ 1359  vi etrete.sh 
+ 1360  sh etrete.sh 1
+ 1361  vi etrete.sh 
+ 1362  sh etrete.sh 1
+ 1363  vi etrete.sh 2
+ 1364  vi etrete.sh
+ 1365  sh etrete.sh gear
+ 1366  sh etrete.sh 1
+ 1367  sh etrete.sh 2
+ 1368  sh etrete.sh 3
+ 1369  sh etrete.sh gay
+ 1370  sh etrete.sh 2
+ 1371  vi etrete.sh
+ 1372  sh etrete.sh 2
+ 1373  vi etrete.sh
+ 1374  sh etrete.sh 2
+ 1375  vi etrete.sh
+ 1376  sh etrete.sh 2
+ 1377  vi etrete.sh
+ 1378  sh etrete.sh 2
+ 1379  vi etrete.sh
+ 1380  sh etrete.sh 2
+ 1381  vi etrete.sh
+ 1382  sh etrete.sh gear
+ 1383  sh etrete.sh gear1
+ 1384  sh etrete.sh gear
+ 1385  sh etrete.sh 1
+ 1386  sh etrete.sh 2
+ 1387  sh etrete.sh 3
+ 1388  sh etrete.sh 4
+ 1389  vi etrete.sh 
+ 1390  sh etrete.sh 4
+ 1391  vi etrete.sh 
+ 1392  sh etrete.sh 4
+ 1393  vi etrete.sh 
+ 1394  sh etrete.sh 4
+ 1395  vi etrete.sh 
+ 1396  sh etrete.sh gear
+ 1397  sh etrete.sh 4
+ 1398  vi etrete.sh 
+ 1399  sh etrete.sh 4
+ 1400  vi etrete.sh 
+ 1401  sh etrete.sh 4
+ 1402  vi etrete.sh 
+ 1403  sh etrete.sh 4
+ 1404  vi etrete.sh 
+ 1405  sh etrete.sh 4
+ 1406  vi etrete.sh 
+ 1407  sh etrete.sh gear
+ 1408  sh etrete.sh gear1
+ 1409  sh etrete.sh gear
+ 1410  sh etrete.sh 1
+ 1411  vi etrete.sh 
+ 1412  sh etrete.sh 1
+ 1413  sh etrete.sh 4
+ 1414  vi etrete.sh 
+ 1415  sh etrete.sh 4
+ 1416  vi etrete.sh 
+ 1417  sh etrete.sh 4
+ 1418  vi etrete.sh 
+ 1419  sh etrete.sh 4
+ 1420  sh etrete.sh gear
+ 1421  sh etrete.sh 4
+ 1422  vi wikigrep.sh 
+ 1423  vi etrete.sh 
+ 1424  sh etrete.sh gear
+ 1425  sh etrete.sh 4
+ 1426  vi etrete.sh 
+ 1427  sh etrete.sh gear
+ 1428  sh etrete.sh 4
+ 1429  vi etrete.sh 
+ 1430  sh etrete.sh gear
+ 1431  sh etrete.sh 4
+ 1432  vi wikigrep.sh 
+ 1433  vi etrete.sh 
+ 1434  sh etrete.sh gear
+ 1435  vi etrete.sh 
+ 1436  sh etrete.sh gear
+ 1437  sh etrete.sh 4
+ 1438  vi etrete.sh 
+ 1439  sh etrete.sh gear
+ 1440  sh etrete.sh 4
+ 1441  vi etrete.sh 
+ 1442  sh etrete.sh gear
+ 1443  sh etrete.sh 4
+ 1444  sh etrete.sh gear
+ 1445  sh etrete.sh 4
+ 1446  vi etrete.sh 
+ 1447  sh etrete.sh 4
+ 1448  vi etrete.sh 
+ 1449  sh etrete.sh 4
+ 1450  vi etrete.sh 
+ 1451  sh etrete.sh gear
+ 1452  sh etrete.sh 4
+ 1453  sh etrete.sh gay
+ 1454  sh etrete.sh 2
+ 1455  vi etrete.sh 
+ 1456  sh etrete.sh gay
+ 1457  sh etrete.sh 2
+ 1458  vi etrete.sh 
+ 1459  sh etrete.sh gay
+ 1460  sh etrete.sh 2
+ 1461  vi etrete.sh 
+ 1462  git status 
+ 1463  git commit -a -m"still not working sorted worksend"
+ 1464  git status 
+ 1465  git log
+ 1466  cd Downloads/wikistraw.dev/
+ 1467  sh etrete.sh Gerards
+ 1468  vi wikigrep.sh 
+ 1469  sh etrete.sh Gerards
+ 1470  sh etrete.sh Gerhardt
+ 1471  sh etrete.sh 4
+ 1472  sh etrete.sh 1
+ 1473  sh etrete.sh 3
+ 1474  sh etrete.sh Shand
+ 1475  sh etrete.sh 1
+ 1476  sh etrete.sh 2
+ 1477  poweroff 
+ 1478  myfort 
+ 1479  man -k tex
+ 1480  man -k tex\ 
+ 1481  man grovi
+ 1482  man grodvi
+ 1483  man -k tfm
+ 1484  rtfm
+ 1485  man tfmtodit 
+ 1486  man -k info
+ 1487  man 5 info
+ 1488  man makeinfo
+ 1489  apt show  makeinfo
+ 1490  apt show  make
+ 1491  apt show  makedic 
+ 1492  apt show  makefs
+ 1493  apt show  makedev
+ 1494  apt -k gcc
+ 1495  man -k gcc
+ 1496  info info-stnd 
+ 1497  info texinfo
+ 1498  info infotex
+ 1499  man 5 info
+ 1500  info texinfo
+ 1501  apt show texinfo 
+ 1502  apt search pcre
+ 1503  apt show libpcre2-8-0
+ 1504  cd Downloads/wikistraw.dev/
+ 1505  git status 
+ 1506  git pull /media/blue-flash/wikistraw.dev
+ 1507  git log 
+ 1508  git branch 
+ 1509  vi f.sed 
+ 1510  git checkout a4c782bc4205e038154fa1ab4a31b5c8b317c72e
+ 1511  git status 
+ 1512  git merge --abort
+ 1513  git status 
+ 1514  git log
+ 1515  git pull /media/blue-flash/wikistraw_clone2021-11-29/wikistraw.dev
+ 1516  sh etrete.sh gay
+ 1517  sh etrete.sh 2
+ 1518  vi linkf.sed 
+ 1519  sh etrete.sh 2
+ 1520  ls enw*
+ 1521  sh indexer.sh enwiktionary-20211120-pages-articles-multistream-index.txt.bz2 
+ 1522  sh etrete.sh '^gay\t'
+ 1523  sh etrete.sh "^gay[[:blank:]]"
+ 1524  man grep
+ 1525  man bash
+ 1526  sh etrete.sh "^gay	"
+ 1527  time sh etrete.sh "^gay	"
+ 1528  time look gay enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted 
+ 1529  sh etrete.sh "^gay	"
+ 1530  sh etrete.sh 2
+ 1531  sh etrete.sh 3
+ 1532  sh etrete.sh 2
+ 1533  sh etrete.sh 1
+ 1534  sh etrete.sh "^gear	"
+ 1535  sh etrete.sh "^metal gear	"
+ 1536  sh etrete.sh 1
+ 1537  sh etrete.sh "^metal gear	"
+ 1538  sh etrete.sh 1
+ 1539  sh etrete.sh 1e
+ 1540  sh etrete.sh "^metal gear	"
+ 1541  cat last_result 
+ 1542  vi etrete.sh 
+ 1543  sh etrete.sh 1
+ 1544  cat last_page 
+ 1545  head last_result 
+ 1546  head last_page 
+ 1547  vi etrete.sh 
+ 1548  sh etrete.sh "^metal gear	"
+ 1549  cat last_result 
+ 1550  sh etrete.sh 1
+ 1551  sh etrete.sh 1|head -n10
+ 1552  sh etrete.sh 1|head -n10;exit
+ 1553  cd Downloads/wikistraw.dev/
+ 1554  sh etrete.sh metal gear
+ 1555  sh etrete.sh 3
+ 1556  sh etrete.sh 1
+ 1557  sh etrete.sh 38343
+ 1558  sh etrete.sh 1
+ 1559  less last_page 
+ 1560  sh etrete.sh metal gear
+ 1561  sh etrete.sh 1
+ 1562  sh etrete.sh 3
+ 1563  less last_page 
+ 1564  vi etrete.sh 
+ 1565  sh etrete.sh metal gear
+ 1566  sh etrete.sh 3
+ 1567  vi etrete.sh 
+ 1568  sh etrete.sh 3
+ 1569  vi etrete.sh 
+ 1570  sh etrete.sh metal gear
+ 1571  sh etrete.sh 3
+ 1572  vi etrete.sh 
+ 1573  sh etrete.sh metal gear
+ 1574  sh etrete.sh 3
+ 1575  head last_page 
+ 1576  less last_page 
+ 1577  ls *.sh
+ 1578  vi wiki-straw.sh 
+ 1579  vi wakw.sh 
+ 1580  bzcat enwikiquote-20200301-pages-articles-multistream.xml.bz2 
+ 1581  bzless enwikiquote-20200301-pages-articles-multistream.xml.bz2 
+ 1582  vi wakw.sh 
+ 1583  sh etrete.sh metal gear
+ 1584  sh etrete.sh 3
+ 1585  vi etrete.sh 
+ 1586  sh etrete.sh 3
+ 1587  sh etrete.sh -m1 metal gear
+ 1588  vi wikigrep.sh 
+ 1589  wikigrep.sh uematsu
+ 1590  sh etrete.sh uematsu
+ 1591  time sh etrete.sh final fantasy
+ 1592  time sh etrete.sh 1
+ 1593  time sh etrete.sh 3
+ 1594  time sh etrete.sh 21
+ 1595  view last_page 
+ 1596  vi f.sed 
+ 1597  time sh etrete.sh 21
+ 1598  less lp.man 
+ 1599  man groff_man
+ 1600  vi f.sed 
+ 1601  time sh etrete.sh 21
+ 1602  git status
+ 1603  git -a -m"mgs bug colon indent"
+ 1604  git commit -a -m"mgs bug colon indent"
+ 1605  sh etrete.sh \^gay\t
+ 1606  sh etrete.sh \^gay$'\t'
+ 1607  sh etrete.sh 2
+ 1608  pwd 
+ 1609  sh etrete.sh 2
+ 1610  sh etrete.sh '\^gay	'
+ 1611  sh etrete.sh '^gay	'
+ 1612  sh etrete.sh 1
+ 1613  sh etrete.sh '^poetry	'
+ 1614  sh etrete.sh 1
+ 1615  man -Tpdf ./lp.man > poetry.pdf
+ 1616  atril poetry.pdf 
+ 1617  d poesy
+ 1618  cd
+ 1619  cd my_items/0-daily-books/
+ 1620  vi unix.pdf 
+ 1621  atril unix.pdf 
+ 1622  cd
+ 1623  cd Downloads/
+ 1624  atril Principles_of_Effective_Modeling.pdf 
+ 1625  find -iname '*tut.pdf'
+ 1626  find ~ -iname '*tut.pdf'
+ 1627  atril /home/alaaxu/Documents/trofftut.pdf
+ 1628  cd /media/blue-flash/wikistraw_clone2021-11-29/wikistraw.dev/
+ 1629  sudo git pull ~/Downloads/wikistraw.dev
+ 1630  git log
+ 1631  cd ../../
+ 1632  cp ~/Downloads/wikistraw.dev/poetry.pdf .
+ 1633  cp -vi ~/Downloads/wikistraw.dev/enwik* .
+ 1634  ls -lh enw*
+ 1635  df
+ 1636  df -h
+ 1637  cd
+ 1638  umount /media/blue-flash 
+ 1639  vi a100ps.troff
+ 1640  groff -Tpdf a100ps.troff > a100.pdf
+ 1641  atril a100.pdf 
+ 1642  vi a100ps.troff
+ 1643  groff -Tpdf a100ps.troff > a100.pdf
+ 1644  atril a100.pdf 
+ 1645  vi a100ps.troff
+ 1646  groff -Tpdf a100ps.troff > a100.pdf
+ 1647  vi a100ps.troff
+ 1648  groff -Tpdf a100ps.troff > a100.pdf
+ 1649  vi a100ps.troff
+ 1650  groff -Tpdf a100ps.troff > a100.pdf
+ 1651  atril a100.pdf 
+ 1652  vi a100ps.troff
+ 1653  groff -Tpdf a100ps.troff > a100.pdf
+ 1654  atril a100.pdf 
+ 1655  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1656  vi a100ps.troff
+ 1657  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1658  atril a100.pdf 
+ 1659  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1660  vi a100ps.troff
+ 1661  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1662  atril a100.pdf 
+ 1663  vi a100ps.troff
+ 1664  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1665  atril a100.pdf 
+ 1666  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1667  vi a100ps.troff
+ 1668  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1669  vi a100ps.troff
+ 1670  tbl a100ps.troff |groff -Tpdf  > a100.pdf
+ 1671  atril a100.pdf 
+ 1672  mount /m*/*sh
+ 1673  mount /media/blue-flash/
+ 1674  cd me*/*sh/*dev
+ 1675  cd med*/*sh/*dev
+ 1676  cd /med*/*sh/*dev
+ 1677  cd ../wikistraw_clone2021-11-29/
+ 1678  git log
+ 1679  cd wikistraw.dev/
+ 1680  git log
+ 1681  cd /home/alaaxu/Downloads/wikistraw.dev
+ 1682  view last_page 
+ 1683  ls -Sr
+ 1684  ls -Srlh
+ 1685  ls -rlh emw*
+ 1686  ls -rlh enw*
+ 1687  ls -Lrlh enw*
+ 1688  less enwik*sorted
+ 1689  grep -e Category: -e Wikipedia: enwik*sorted
+ 1690  grep -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted
+ 1691  grep -o -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted|so
+ 1692  grep -o -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted
+ 1693  grep -o -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted|sort|uniq -c
+ 1694  grep  -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted
+ 1695  grep  -e Category: -e Wikipedia: enwiktionary-20211120-pages-articles-multistream*sorted >cat.gar
+ 1696  wc -l cat.gar 
+ 1697  ls -lh cat.gar 
+ 1698  grep  -e '^[^:]*:
+ 1699  grep  -e '^[^:]*:'
+ 1700  grep -o -e '^[^:]*:' enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted 
+ 1701  grep -o -e '^[^:	]*:' enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted 
+ 1702  grep -o -e '^[^:	]*:' enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted |sort|uniq -count |sort
+ 1703  grep -o -e '^[^:	]*:' enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted |sort|uniq -c |sort
+ 1704  grep -o -e '^[^:	]*:' enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted |sort|uniq -c |sort -n
+ 1705  wc -l enwiktionary-20211120-pages-articles-multistream-index.txt.bz2.sorted 
+ 1706  git status 
+ 1707  git log
+ 1708  poweroff
+ 1709  cd Downloads/wikistraw.dev/
+ 1710  et \ 3
+ 1711  sh etrete.sh \ 3
+ 1712  sh etrete.sh 1417
+ 1713  cat last_p
+ 1714  sh etrete.sh 1428
+ 1715  ls
+ 1716  ls -l enwikt*
+ 1717  find / -iname '*enwiktionary*' 2>/dev/null 
+ 1718  mount /media/blue-flash/
+ 1719  cp -vi enwiktionary-20211120-pages-articles-multistream-index.txt.bz2 enwiktionary-20211120-pages-articles-multistream.xml.bz2 /data/0_items/read/dict/
+ 1720  mount all
+ 1721  mount --all
+ 1722  sudo mount --all
+ 1723  ls
+ 1724  sh etrete.sh 1417
+ 1725  sh etrete.sh 1428
+ 1726  sh etrete.sh '^з	'
+ 1727  sh etrete.sh 2
+ 1728  sh etrete.sh felch
+ 1729  sh etrete.sh 3
+ 1730  sh etrete.sh happy
+ 1731  sh etrete.sh happy|more
+ 1732  sh etrete.sh happy|less
+ 1733  sh etrete.sh happy|more
+ 1734  sh etrete.sh 42
+ 1735  vi f.sed 
+ 1736  ls *.awk
+ 1737  man groff_man
+ 1738  vi olist.awk
+ 1739  vi etrete.sh 
+ 1740  sh etrete.sh 42
+ 1741  vi etrete.sh 
+ 1742  sh etrete.sh 42
+ 1743  vi olist.awk
+ 1744  echo "# wdsfsdfsf"|awk -f olist.awk 
+ 1745  vi olist.awk
+ 1746  echo "# wdsfsdfsf"|awk -f olist.awk 
+ 1747  vi olist.awk
+ 1748  echo "# wdsfsdfsf"|awk -f olist.awk 
+ 1749  vi olist.awk
+ 1750  echo "# wdsfsdfsf"|awk -f olist.awk 
+ 1751  echo -e "# wdsfsdfsf\nkkkkkkk"|awk -f olist.awk 
+ 1752  echo -e "# wdsfsdfsf\nkkkkkkk"
+ 1753  vi olist.awk
+ 1754  echo -e "# wdsfsdfsf\nkkkkkkk"|awk -f olist.awk 
+ 1755  vi olist.awk
+ 1756  echo -e "# wdsfsdfsf\nkkkkkkk"|awk -f olist.awk 
+ 1757  sh etrete.sh 42
+ 1758  vi olist.awk
+ 1759  sh etrete.sh 42
+ 1760  vi olist.awk
+ 1761  sh etrete.sh 42
+ 1762  vi last_page 
+ 1763  sh etrete.sh 42
+ 1764  vi last_page 
+ 1765  vi abstro.awk 
+ 1766  vi etrete.sh 
+ 1767  vi abstro.awk 
+ 1768  sh etrete.sh 42
+ 1769  vi etrete.sh 
+ 1770  vi f.sed 
+ 1771  sh etrete.sh 42
+ 1772  vi olist.awk 
+ 1773  sh etrete.sh 42
+ 1774  vi olist.awk 
+ 1775  sh etrete.sh 42
+ 1776  vi olist.awk 
+ 1777  sh etrete.sh 42
+ 1778  vi olist.awk 
+ 1779  sh etrete.sh 42
+ 1780  vi olist.awk 
+ 1781  vi f.sed 
+ 1782  sh etrete.sh 42
+ 1783  vi f.sed 
+ 1784  sh etrete.sh 42
+ 1785  vi f.sed 
+ 1786  sh etrete.sh 42
+ 1787  vi f.sed 
+ 1788  sh etrete.sh 42
+ 1789  vi f.sed 
+ 1790  sh etrete.sh 42
+ 1791  vi f.sed 
+ 1792  sh etrete.sh 42
+ 1793  vi f.sed 
+ 1794  sh etrete.sh 42
+ 1795  man -k languages
+ 1796  man locale
+ 1797  man 7 locale
+ 1798  man 5 locale
+ 1799  man -k RFC
+ 1800  apt search RFC
+ 1801  cd /usr/share/doc/
+ 1802  ls
+ 1803  cd doc-base/
+ 1804  ls
+ 1805  less changelog.gz 
+ 1806  find -iname '*rfc*'
+ 1807  cd ..
+ 1808  find -iname '*rfc*'
+ 1809  cd -
+ 1810  cd ~/D*w
+ 1811  cd ~/Downloads/
+ 1812  cd wikistraw.dev/
+ 1813  sh etrete.sh rosebud
+ 1814  sh etrete.sh 8
+ 1815  sh etrete.sh Wikipedia:help
+ 1816  sh etrete.sh Wikipedia\:help
+ 1817  sh etrete.sh Wikipedia:
+ 1818  sh etrete.sh Wikipedia
+ 1819  sh etrete.sh Template:lb
+ 1820  sh etrete.sh 1
+ 1821  sh etrete.sh Template:RQ
+ 1822  sh etrete.sh Template:RQ|more
+ 1823  sh etrete.sh 'Template:RQ	'
+ 1824  sh etrete.sh 'Template:RQ|more
+ 1825  sh etrete.sh 'Template:RQ'|more
+ 1826  sh etrete.sh 1
+ 1827  sh etrete.sh 23
+ 1828  sh etrete.sh 'Template:RQ'|more
+ 1829  sh etrete.sh 'Template:RQ'
+ 1830  sh etrete.sh 1
+ 1831  sh etrete.sh languages
+ 1832  sh etrete.sh languages|more
+ 1833  sh etrete.sh 25
+ 1834  sh etrete.sh languages
+ 1835  sh etrete.sh 25
+ 1836  sh etrete.sh ISO
+ 1837  less last_result 
+ 1838  sh etrete.sh 2632
+ 1839  less last_result
+ 1840  sh etrete.sh RFC
+ 1841  sh etrete.sh codes
+ 1842  sh etrete.sh 473
+ 1843  tbl a100ps.troff |groff -Tpdf  > language-codes.pdf
+ 1844  groff lp.man -Tpdf  > language-codes.pdf
+ 1845  atril language-codes.pdf 
+ 1846  man lp.man -Tpdf  > language-codes.pdf
+ 1847  man -l -Tpdf  ./lp.man > language-codes.pdf
+ 1848  atril language-codes.pdf 
+ 1849  atril prolapse
+ 1850  sh etrete.sh prolapse
+ 1851  sh etrete.sh 1
+ 1852  sh etrete.sh nippl play
+ 1853  sh etrete.sh nippls play
+ 1854  sh etrete.sh nippl
+ 1855  sh etrete.sh nipples play
+ 1856  sh etrete.sh scat
+ 1857  sh etrete.sh '^scat paly'
+ 1858  sh etrete.sh scat paly
+ 1859  sh etrete.sh '^scat	'
+ 1860  sh etrete.sh 1
+ 1861  d scat
+ 1862  sh etrete.sh مسرعا
+ 1863  sh etrete.sh مسرع
+ 1864  sh etrete.sh 1
+ 1865  sh etrete.sh kanji
+ 1866  sh etrete.sh '^kanji	q
+ 1867  less last_result 
+ 1868  sh etrete.sh kanji
+ 1869  less last_result 
+ 1870  sh etrete.sh 987
+ 1871  sh etrete.sh rimming
+ 1872  sh etrete.sh 12
+ 1873  sh etrete.sh butt plug
+ 1874  sh etrete.sh 1
+ 1875  sh etrete.sh unix
+ 1876  sh etrete.sh 1
+ 1877  sh etrete.sh bsd
+ 1878  sh etrete.sh vi editor
+ 1879  sh etrete.sh ditor wars
+ 1880  sh etrete.sh ditors
+ 1881  sh etrete.sh emacs
+ 1882  sh etrete.sh 1
+ 1883  sh etrete.sh vim
+ 1884  less last_result 
+ 1885  sh etrete.sh 'vim '
+ 1886  sh etrete.sh '^vim'
+ 1887  sh etrete.sh '^vi'
+ 1888  sh etrete.sh '^vi '
+ 1889  sh etrete.sh 'text editor'
+ 1890  sh etrete.sh 'vim'|grep qou
+ 1891  sh etrete.sh 'vim'|grep quo
+ 1892  sh etrete.sh 'vi'|grep quo
+ 1893  sh etrete.sh '^vi'|grep quo
+ 1894  sh etrete.sh '^vi'|grep quo|grep edi
+ 1895  sh etrete.sh '^vi'|grep quo|grep text
+ 1896  sh etrete.sh '^vi'|grep quo|grep te
+ 1897  sh etrete.sh '^vim'|grep quo
+ 1898  sh etrete.sh '^linux'
+ 1899  sh etrete.sh 1
+ 1900  git status 
+ 1901  git add olist.awk 
+ 1902  git commit -a
+ 1903  git statu
+ 1904  sh etrete.sh linus
+ 1905  sh etrete.sh linus tor
+ 1906  sh etrete.sh 1
+ 1907  sh etrete.sh nudist
+ 1908  sh etrete.sh nude
+ 1909  sh etrete.sh nude|grep quo
+ 1910  sh etrete.sh 1
+ 1911  sh etrete.sh 267
+ 1912  sh etrete.sh 268
+ 1913  vi last_page 
+ 1914  man 5 troff
+ 1915  man 7 troff
+ 1916  man 7 groff
+ 1917  ls
+ 1918  cd
+ 1919  ls *.man
+ 1920  vi test.man 
+ 1921  man -l test.man 
+ 1922  vi test.man 
+ 1923  man -l test.man 
+ 1924  man cp
+ 1925  man systemd
+ 1926  man groff_man 
+ 1927  cd my_items/0-daily-books/
+ 1928  atril unix.pdf 
+ 1929  atril heath-i.pdf 
+ 1930  cd
+ 1931  cd Downloads/
+ 1932  less prred.utf8.eikyou_no_kotoba.永遠のことば.txt 
+ 1933  cd Downloads/wikistraw.dev/
+ 1934  vi lp.man 
+ 1935  man 5 groff
+ 1936  man 7 groff
+ 1937  vi lp.man 
+ 1938  vi last_page 
+ 1939  view last_page 
+ 1940  sh etrete.sh recension
+ 1941  sh etrete.sh 1
+ 1942  sh etrete.sh lucid
+ 1943  sh etrete.sh '^lucid	'
+ 1944  sh etrete.sh 2
+ 1945  sh etrete.sh blowjob
+ 1946  sh etrete.sh 1
+ 1947  sh etrete.sh Thesaurus:sexual activity
+ 1948  sh etrete.sh 1
+ 1949  view Te
+ 1950  sh etrete.sh Template:ws
+ 1951  sh etrete.sh 2
+ 1952  sh etrete.sh primordial
+ 1953  sh etrete.sh 5
+ 1954  git status 
+ 1955  git log
+ 1956  w k 本筋
+ 1957  w k いたらなi
+ 1958  w k 知恵
+ 1959  w k 備u
+ 1960  w k 備e
+ 1961  w k 影響
+ 1962  w k 素直
+ 1963  w k 瞬間
+ 1964  w k 燃焼
+ 1965  d 燃焼
+ 1966  d おのずから
+ 1967  w k 燃焼
+ 1968  cd /media/blue-flash/wikistraw_clone2021-11-29/wikistraw.dev/
+ 1969  sudo git pull ~/Downloads/wikistraw.dev
+ 1970  git log
+ 1971  cd
+ 1972  umount /media/blue-flash 
+ 1973  vd /media
+ 1974  cd /media
+ 1975  ls -l
+ 1976  cd alaaxu/
+ 1977  ls -l
+ 1978  cd ..
+ 1979  chown alaaxu blue-flash/
+ 1980  sudo chown alaaxu blue-flash/
+ 1981  ls -l
+ 1982  chgrp alaaxu blue-flash/
+ 1983  ls -l
+ 1984  poweroff 
+ 1985  cd black-flash/20200201/
+ 1986  ls
+ 1987  for i in enwiki-20200201-pages-articles-multistream*;do sh ~/Downloads/wikistraw.dev/indexer.sh "$i";done
+ 1988  for i in enwiki-20200201-pages-articles-multistream*;do time sh ~/Downloads/wikistraw.dev/indexer.sh "$i";echo $i;done
+ 1989  for i in enwiki-20200201-pages-articles-multistream-index*;do time sh ~/Downloads/wikistraw.dev/indexer.sh "$i";echo $i;done
+ 1990  PATH=/home/alaaxu/Downloads/wikistraw.dev:$PATH
+ 1991  sh etrete.sh g
+ 1992  sh etrete.sh '^gay	'
+ 1993  sh etrete.sh '^gay
+ 1994  sh etrete.sh '^gay'
+ 1995  sh etrete.sh 'gay'
+ 1996  sh etrete.sh 1123
+ 1997  sh etrete.sh 1148
+ 1998  man ascii
+ 1999  vi t.html
+ 2000  firefox  t.html 
+ 2001  vi t.html
+ 2002  cd black-flash/20200201/wikistraw.dev/
+ 2003  sh etrete.sh "\(I'm Always Touched By Your\) Presence, Dear"
+ 2004  sh etrete.sh 3
+ 2005  sh etrete.sh gat flag
+ 2006  sh etrete.sh gay flag
+ 2007  sh etrete.sh 1
+ 2008  cat last_page
+ 2009  vi wakw.sh 
+ 2010  git pull ~/Downloads/wikistraw.dev
+ 2011  git log
+ 2012  vi wakw.sh 
+ 2013  sh etrete.sh gay flag
+ 2014  sh etrete.sh 1
+ 2015  vi etrete.sh 
+ 2016* sh etrete.sh 
+ 2017  sh etrete.sh gay flag
+ 2018  grep 'Gay flag' enwiki-20200201-pages-articles-multistream*sorted
+ 2019  bzless *xml-p5040438p6197593*
+ 2020  grep 'Gay flag' enw"Rainbow flag \(LGBT\)" 01-pages-articles-multistream*sorted
+ 2021  grep "Rainbow flag \(LGBT\)" 01-pages-articles-multistream*sorted
+ 2022  grep "Rainbow flag \(LGBT\)" *sorted
+ 2023  grep "Rainbow flag" *sorted
+ 2024  bzless *xml*p11539268p13039268*
+ 2025  sh foffset.sh 344699125:12813031 *xml*p11539268p13039268*
+ 2026  sh foffset.sh 344699125 *xml*p11539268p13039268*
+ 2027  sh foffset.sh *xml*p11539268p13039268* 344699125
+ 2028  sh foffset.sh *xml*p11539268p13039268* 344699125|bzless
+ 2029  vi etrete.sh 
+ 2030  sh etrete.sh gay flag
+ 2031  sh etrete.sh 1
+ 2032  vi etrete.sh 
+ 2033  sh etrete.sh 1
+ 2034  egrep 'Rainbow flag (LGBT)' *sorted
+ 2035  fgrep 'Rainbow flag (LGBT)' *sorted
+ 2036  sh etrete.sh 1
+ 2037  vi etrete.sh 
+ 2038  sh etrete.sh 1
+ 2039  sh etrete.sh gay flag
+ 2040  vi etrete.sh 
+ 2041  sh etrete.sh 1
+ 2042  sh etrete.sh twinks
+ 2043  sh etrete.sh 5
+ 2044  sh etrete.sh gay 4
+ 2045  sh etrete.sh 4
+ 2046  sh etrete.sh twinks
+ 2047  sh etrete.sh 4
+ 2048  vi etrete.sh 
+ 2049  sh etrete.sh twinks
+ 2050  sh etrete.sh 5
+ 2051  sh etrete.sh "Twink \(gay slang\)"
+ 2052  sh etrete.sh 2
+ 2053  sh etrete.sh twinks
+ 2054  sh etrete.sh "Twinkie \(gay slang\)"
+ 2055  sh etrete.sh 1
+ 2056  git status 
+ 2057  git commit -a -m"redir bug egrep paren to grep only"
+ 2058  git log
+ 2059  man awk
+ 2060  grep ref last_page
+ 2061  grep ref lp.man
+ 2062  awk 'BEGIN{RS="<"}$1=="ref"{r=1}{if(r==1){print}}"$1=="\/ref"{r=0}'  lp.man
+ 2063  awk 'BEGIN{RS="<"}$1=="ref"{r=1}{if(r==1){print}}"$1=="/ref"{r=0}'  lp.man
+ 2064  awk 'BEGIN{RS="<"}$1=="ref"{r=1}{if(r==1){print}}$1=="\/ref"{r=0}'  lp.man
+ 2065  awk 'BEGIN{RS="<"} $1=="ref"{r=1}{if(r==1){print}} $1=="/ref"{r=0}'  lp.man
+ 2066  awk 'BEGIN{RS="<";FS=">"} $1=="ref"{r=1}{if(r==1){print}} $1=="\/ref"{r=0}'  lp.man
+ 2067  awk 'BEGIN{RS="<";FS=">"} $1=="ref"{r=1}{if(r==1){print}} $1=="/ref"{r=0}'  lp.man
+ 2068  awk 'BEGIN{RS="<";FS=">"} $1=="ref"{r=1}r==1{print}} $1=="/ref"{r=0}'  lp.man
+ 2069  awk 'BEGIN{RS="<";FS=">"} $1=="ref"{r=1} r==1 && $1=="ref"{print} $1=="/ref"{r=0}'  lp.man
+ 2070  awk 'BEGIN{RS="<";FS=">"} $1=="ref"{r=1} r==1{print} $1=="/ref"{r=0}'  lp.man
+ 2071  awk 'BEGIN{RS="<"} $1=="ref"{r=1} r==1{print} $1=="/ref"{r=0}'  lp.man
+ 2072  awk -F">" 'BEGIN{RS="<"} $1=="ref" {r=1} r==1 {print} $1=="ref" {r=0}'  lp.man
+ 2073  awk -F">" 'BEGIN{RS="<"} $1=="ref" {r=1;$1="*"} r==1 {print} $1=="ref" {r=0}'  lp.man
+ 2074  awk -F">" 'BEGIN{RS="<"} $1=="ref" {r=1;$1="*"} r==1 {print} $1=="/ref" {r=0}'  lp.man
+ 2075  awk -F">" 'BEGIN{RS="<"} $1 ~ "^ref" {r=1;$1="*"} r==1 {print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2076  awk - 'BEGIN{RS="<"} $1 ~ "^ref" {r=1;$1="*"} r==1 {print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2077  awk  'BEGIN{RS="<"} $1 ~ "^ref" {r=1;$1="*"} r==1 {print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2078  awk  'BEGIN{RS="<"} $1 ~ "^ref" {r=1} r==1 {print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2079  awk  'BEGIN{RS="<"} $1 ~ "^ref" {r=1} r==1{print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2080  awk  'BEGIN{RS="<"} $1 ~ "^ref" {r=1} {if(r==1)print} $1 ~ "^\/ref"{r=0}'  lp.man
+ 2081  awk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1)print} $1~"^\/ref"{r=0}'  lp.man
+ 2082  awk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1){print}} $1~"^\/ref"{r=0}'  lp.man
+ 2083  awk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1){print}} $1~"^.ref"{r=0}'  lp.man
+ 2084  awk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1){print $0,"zzz"}} $1~"^.ref"{r=0}'  lp.man
+ 2085  awk  'BEGIN{RS="<"}{print}'  lp.man
+ 2086  mawk  'BEGIN{RS="<"}{print}'  lp.man
+ 2087  mawk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1){print $0,"zzz"}} $1~"^.ref"{r=0}'  lp.man
+ 2088  mawk  'BEGIN{RS="<"} $1~"^ref"{r=1} {if(r==1){print NR,$0,"zzz"}} $1~"^.ref"{r=0}'  lp.man
+ 2089  mawk  'BEGIN{RS="<"} $1~"^ref"{r="1"} {if(r=="1"){print NR,$0,"zzz"}} $1~"^.ref"{r="0"}'  lp.man
+ 2090  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"} {if(r=="t"){print NR,$0,"zzz"}} $1~"^.ref"{r="f"}'  lp.man
+ 2091  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"} {if(r="t"){print NR,$0,"zzz"}} $1~"^.ref"{r="f"}'  lp.man
+ 2092  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"){print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2093  cat lp.man
+ 2094  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"){print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2095  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t")&&$1!~".ref"{print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2096  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t") && $1!~".ref"{print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2097  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t") && ! $1~".ref"{print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2098  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref") {print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2099  fc -ln mawk mawk
+ 2100  fc -ln mawk mawk >> exreftag.awk
+ 2101  cat exreftag.awk 
+ 2102  sh exreftag.awk 
+ 2103  fc -ln mawk mawk >> exreftag.awk
+ 2104  sh exreftag.awk 
+ 2105  less lp.man
+ 2106  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref") {print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2107  mawk -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref") {print NR,$0,"zzz"}}; $1~"^.ref"{r="f"}'  lp.man
+ 2108  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"}else (r=="t"&&$1~"^ref.*\/$")}print $1; $1~"^.ref"||$1~"^ref.*\/$"{r="f"}'  lp.man
+ 2109  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"} else (r=="t"&&$1~"^ref.*\/$"){ print $1}}; $1~"^.ref"||$1~"^ref.*\/$"{r="f"}'  lp.man
+ 2110  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"} else (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref"||$1~"^ref.*\/$"{r="f"}'  lp.man
+ 2111  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"} else (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2112  man mawk
+ 2113  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2114  less lp.man
+ 2115  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2116  less lp.man
+ 2117  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&&$1!~".ref" && $1!~"ref\/$"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2118  man mawk
+ 2119  mawk  'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2120  fc -ln mawk mawk >> exreftag2.awk
+ 2121  mawk  'BEGIN{RS="<"} $1~"^ref"{print}
+'
+ 2122  mawk  -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print $1} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2123  mawk  -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print NR,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print NR,$1,"yyy"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2124  fc -ln mawk mawk >> exreftag3.awk
+ 2125  sh exreftag3.awk 
+ 2126  mawk  -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz"} ;if (r=="t" && $1~ "^ref.*\/$") { print ++c,$1,"yyy"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}'  lp.man
+ 2127  fc -ln mawk mawk >> exreftag4.awk
+ 2128  sh exreftag4.awk 
+ 2129  >refs;mawk  -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="[-"c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="[-"c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}{print}'  lp.man
+ 2130  >refs;mawk  -F">" 'BEGIN{RS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}{print}'  lp.man
+ 2131  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"}{print}'  lp.man
+ 2132  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f"};$0=""{print}'  lp.man
+ 2133  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$0=""}{print}'  lp.man
+ 2134  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2135  fc -ln mawk mawk >> exreftag5.awk
+ 2136  sh exreftag5.awk 
+ 2137  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2138  fc -ln ">" ">" >> exreftag5.awk
+ 2139  sh exreftag5.awk 
+ 2140  cat exreftag5
+ 2141  cat exreftag5.awk 
+ 2142  fc -ln ">" ">" > exreftag6.awk
+ 2143  cat exreftag6.awk 
+ 2144  sh exreftag6.awk 
+ 2145  cat refs 
+ 2146  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$0,"zzz\n">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy\n" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2147  cat refs 
+ 2148  fc -ln ">" ">" > exreftag7.awk
+ 2149  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,$1"---"$2,"zzz\n">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c,$1,"yyy\n" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2150  cat refs 
+ 2151  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,"---"1"---"$2"---zzz\n">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c"---"$1"---yyy\n" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2152  cat refs 
+ 2153  less refs 
+ 2154  >refs;mawk  -F">" 'BEGIN{RS="<";OFS=">";ORS="<"} $1~"^ref"{r="t"}; {if(r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*\/$"){print ++c,"---"$1"---"$2"---zzz\n">>"refs";$0="["c"]"} ;if (r=="t" && $1~ "^ref.*\/$") { print  ++c"---"$1"---yyy\n" >>"refs";$1="["c"]"} }; $1~"^.ref" || $1~"^ref.*\/$"{r="f";$1=""}{print}'  lp.man
+ 2155  less refs 
+ 2156  fc -ln ">" ">" > exreftag8.awk
+ 2157  history > exreftag.history

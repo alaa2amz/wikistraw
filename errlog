@@ -1,0 +1,1 @@
+awk: cmd. line:1: (FILENAME=data/dict/edict2u FNR=1) warning: regexp escape sequence `\ ' is not a known regexp operator

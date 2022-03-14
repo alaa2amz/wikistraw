@@ -1,0 +1,29 @@
+BEGIN{
+	system(">refs")
+	RS="<";
+	FS=">";
+	OFS=">";
+	ORS="<";
+	} 
+
+	$1~"^ref"{
+		r="t";++c;
+	} 
+	#BUG:it would count a tag within ref as a ref.....I am tired for today
+	r=="t"&& $1 !~ ".ref" && $1 !~ "^ref.*/$"{
+		print $0>>"refs";$0="";next
+	} 
+	r=="t" && $1~ "^ref.*/$"{ 
+		print $1 >>"refs";$1="";printf("[%d]",c);
+		printf("%s",$2);
+		#print $2
+		r="f";next
+	}
+	$1~"^/ref" {
+		r="f";
+		$1=""
+		#print $2
+		printf("%s",$2)
+		next
+	}
+		{print}
